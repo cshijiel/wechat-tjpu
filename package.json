@@ -12,8 +12,6 @@
     "express": "~4.13.0",
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
-    "serve-favicon": "~2.3.0",
-    "nodejs-wechat": "~0.0.8",
-    "express-middlewares-js": "~1.0.3"
+    "serve-favicon": "~2.3.0"
   }
 }
